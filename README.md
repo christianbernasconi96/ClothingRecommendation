@@ -1,3 +1,13 @@
+# Overview
+The developed systems allow the user to:
+- retrieve clothing from the dataset that are similar to a provided photo
+- apply styles and effects to images of clothes
+- create a GIF from images of clothes
+
+User interaction with the system is handled by a Telegram Bot.
+
+For more information look at the [presentation](Presentation.pdf).
+
 # Dataset
 
 Download dataset from https://products-10k.github.io/
